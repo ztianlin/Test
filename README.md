@@ -9,7 +9,7 @@ Cheatsheet")
 Les etudiants _ne manqeront pas_ d'inscrire dans ce ficher
 
   1. leur nom
-  2.la decription de leur projet
+  2. la decription de leur projet
   3. comment l'installer
 
 ## Second titre de niveau 2
